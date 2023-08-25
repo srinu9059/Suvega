@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "260957554272",
+    "project_id": "suvega-d6ce5",
+    "storage_bucket": "suvega-d6ce5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260957554272:android:c7715a4dd7121287ab6505",
+        "android_client_info": {
+          "package_name": "com.example.suvega"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260957554272-6ka6fmq6rg6ir0khmdrbn998maj5dk96.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv7tB4Nge9o_ira0qqGGGtl-cChORIPmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260957554272-6ka6fmq6rg6ir0khmdrbn998maj5dk96.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

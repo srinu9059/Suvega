@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Suvega</string>
+    <string name="connected_logistics">Connected Logistics</string>
+    <string name="platform">Platform</string>
+    <string name="email_mobile_number">Email/Mobile Number</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="fleet_owner">Fleet owner</string>
+    <string name="full_name">Full Name</string>
+    <string name="current_location_begumpet">Current Location : Begumpet</string>
+</resources>
