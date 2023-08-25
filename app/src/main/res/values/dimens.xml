@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="arrow_width">48dp</dimen>
+    <dimen name="arrow_height">48dp</dimen>
+    <dimen name="arrow_margin_top">16dp</dimen>
+    <dimen name="text_margin_top">8dp</dimen>
+</resources>
